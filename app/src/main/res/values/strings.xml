@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">walk throug screen2</string>
+
+
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">on_boardingwalktrought</string>
+    <string name="slide_1_desc">Let\'s enjoy a short tour in Egypt and Tunisia with all their beautiful landmarks and learn about the two different cultures</string>
+
+    <string name="slide_2_title">Travel With Us</string>
+    <string name="slide_2_desc">Learn about the rapprochement between the two cultures and the magic of the past and present.</string>
+
+    <string name="slide_3_title">Create amazing Traveling</string>
+    <string name="slide_3_desc">Both countries are archaeological and attractive to tourists due to the natural beauty, imagination and creativity of the ancients in both countries.</string>
+
+    <string name="slide_4_title">Let Go</string>
+    <string name="slide_4_desc">Let\'s get to know each other very interesting countries.</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+</resources>
